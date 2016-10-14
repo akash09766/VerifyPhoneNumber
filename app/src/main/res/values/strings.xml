@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OtpVerificationDemo</string>
+    //go to https://www.fabric.io/ and create new account to get the api key
+    <string name="fabrics_api_key">dcc25fee3cba75b43faedce3dfab6c49049569fc</string>
+</resources>
